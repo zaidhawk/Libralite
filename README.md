@@ -1,5 +1,10 @@
 # Digital Content & E-Book Lending Platform
 
+
+## Link to the live website via Vercel
+https://libralite-puce.vercel.app/
+
+
 ## Installation
 
 ```shell
