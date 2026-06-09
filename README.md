@@ -5,28 +5,6 @@
 https://libralite-puce.vercel.app/
 
 
-## Installation
-
-```shell
-
-npm install
-
-# dev
-npm run dev
-
-# build
-npm run build
-npm start
-```
-## Testing
-
-```shell
-
-npm install jest
-
-npx jest tests/unit-tests.test.ts
-```
-
 ## Overview
 
 This system provides comprehensive digital content management with the following features:
@@ -184,10 +162,4 @@ readingListManager.addToReadingList(
 - Loan period: 1-21 days
 - Max renewals: 2
 - Automatic return on expiration
-
-## Next Steps
-
-1. Complete provider integrations (Overdrive, etc.)
-2. Implement actual file storage and streaming (download functionality)
-3. Add full DRM encryption/decryption
-4. Create admin interface for catalog management (for future integration)
+- 
